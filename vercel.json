@@ -1,0 +1,5 @@
+{
+  "redirects": [
+    { "source": "/", "destination": "https://devtweet.is-an.app", "statusCode": 301 }
+  ]
+}
